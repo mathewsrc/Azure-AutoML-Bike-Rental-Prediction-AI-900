@@ -4,7 +4,7 @@ This project uses Azure AutoML (Regression) to predict bike rental
 
 All settings used in this project can be found at: https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02-module-02.html
 
-![Azure AutoML Bike Rental Prediction](https://github.com/mathewsrc/Azure-AutoML-Bike-Rental-Prediction-AI-900/assets/94936606/050f6bdd-5e40-4b4a-9dc8-b64630e0f095)
+![Azure AutoML Bike Rental Prediction](https://github.com/mathewsrc/Azure-AutoML-Bike-Rental-Prediction-AI-900/assets/94936606/a7990222-cd8b-4dcd-affd-e47cef3d081e)
 
 Model
 
